@@ -1,0 +1,7 @@
+{
+  "name": "ReviewPilot AI - Author Book Review Outreach & Submissions Tracker",
+  "description": "AI-powered book review submission engine and outreach CRM for authors. Pitch top publications like the NYT Book Review, Kirkus, bloggers, and BookTokers with automated follow-ups and success analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
